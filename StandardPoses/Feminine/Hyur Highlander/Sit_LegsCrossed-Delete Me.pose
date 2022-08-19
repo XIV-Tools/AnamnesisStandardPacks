@@ -1,6 +1,6 @@
 {
   "Config": {
-    "UseSelection": false,
+    "UseSelection": true,
     "LoadPositions": true,
     "LoadRotations": true,
     "LoadScales": true
